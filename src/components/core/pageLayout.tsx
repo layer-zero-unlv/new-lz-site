@@ -15,7 +15,7 @@ const PageLayout = ({ children, pageTitle }: PageLayoutProps) => {
         </div>
     )
 
-    return (
+   return (
         <>
             <Head>
                 <title>{ pageTitle }</title>
